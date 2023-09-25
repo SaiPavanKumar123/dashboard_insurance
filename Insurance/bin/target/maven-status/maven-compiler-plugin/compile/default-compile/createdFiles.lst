@@ -1,0 +1,15 @@
+com\insurance\Insurance\claims\models\HospitalClaims.class
+com\insurance\Insurance\claims\models\ClaimBills.class
+com\insurance\Insurance\claims\contractor\IRepository.class
+com\insurance\Insurance\claims\rowmappers\ClaimBillsRowMappers.class
+com\insurance\Insurance\claims\rowmappers\ClaimsRowMapper.class
+com\insurance\Insurance\claims\rowmappers\ReimbursementClaimsRowMapper.class
+com\insurance\Insurance\claims\contractor\copy\IRepository.class
+com\insurance\Insurance\claims\models\ReimbursementClaims.class
+com\insurance\Insurance\claims\controller\InsuranceController.class
+com\insurance\Insurance\claims\repositories\InsuranceClaimRepository.class
+com\insurance\Insurance\claims\contractor\DAOInterface.class
+com\insurance\Insurance\claims\rowmappers\HospitalClaimsRowMapper.class
+com\insurance\Insurance\claims\contractor\copy\DAOInterface.class
+com\insurance\Insurance\claims\daos\InsuranceClaimDAO.class
+com\insurance\Insurance\claims\models\Claims.class
